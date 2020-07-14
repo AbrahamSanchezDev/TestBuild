@@ -1,0 +1,16 @@
+{
+    "Data": [
+        {
+            "Id": "Some Text",
+            "DisplayText": "Falls account for 8 million hospital\nemergincy room visits presenting the leading\ncause of visits(21,3%). Slips and falls account for over 1 million visits , or 12% of total falls."
+        },
+        {
+            "Id": "Second",
+            "DisplayText": "How many Accidents happen (Do you have any stats for this) – 2018 – \nFall on same level = 147,390 Slips without fall = 35, 330. Total injuries 182,720 injuries\r"
+        },
+        {
+            "Id": "Final",
+            "DisplayText": "What are the common injuries? – Fractures, sprains, strains, tears, bruises, contusions, concussions"
+        }
+    ]
+}
